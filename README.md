@@ -64,7 +64,7 @@ Libraries, frameworks that are perfect and comprehensive. Can be used in a varie
 </a>
 
 <br />
-#
+
 
 ```
 npx degit https://github.com/nidz-the-fact/React-with-Vitejs-for-Walletconnect-to-Starter-Web3 your-name-project
