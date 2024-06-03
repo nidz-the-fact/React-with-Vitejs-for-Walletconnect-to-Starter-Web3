@@ -62,3 +62,17 @@ Libraries, frameworks that are perfect and comprehensive. Can be used in a varie
     <img alt="logo" src="https://viem.sh/icon-light.png" width="auto" height="50">
   </picture>
 </a>
+
+```
+npx degit https://github.com/nidz-the-fact/React-with-Vitejs-for-Walletconnect-to-Starter-Web3 your-name-project
+```
+or
+```
+git clone https://github.com/nidz-the-fact/React-with-Vitejs-for-Walletconnect-to-Starter-Web3.git
+```
+
+---
+
+💻💖☕ by [Nidz The Fact](https://linktr.ee/nid_z) | [```
+git clone https://github.com/nidz-the-fact/React-with-Vitejs-for-Walletconnect-to-Starter-Web3.git
+```](https://etherscan.io/address/0x361ef0829E71b3bBc806C224ffcecc97813f93cB) 🙏
