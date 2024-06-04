@@ -66,7 +66,8 @@ Libraries, frameworks that are perfect and comprehensive. Can be used in a varie
 ## ⚙️ Settings
 
 <pre>
-├── <b>1.Define api in .env</b>: https://github.com/nidz-the-fact/React-with-Vitejs-for-Walletconnect-to-Starter-Web3/blob/main/.env
+├── <a href="https://github.com/nidz-the-fact/React-with-Vitejs-for-Walletconnect-to-Starter-Web3/blob/main/.envs"><b>1.Define api in .env</b></a>
+
 </pre>
 
 ## ⚒️ Use deployment
