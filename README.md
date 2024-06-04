@@ -66,8 +66,11 @@ Libraries, frameworks that are perfect and comprehensive. Can be used in a varie
 ## ⚙️ Settings
 
 <pre>
-├── <a href="https://github.com/nidz-the-fact/React-with-Vitejs-for-Walletconnect-to-Starter-Web3/blob/main/.envs"><b>1.Define api in .env</b></a>
-
+├── <a href="https://github.com/nidz-the-fact/React-with-Vitejs-for-Walletconnect-to-Starter-Web3/blob/main/.env"><b>1.Define api in .env</b></a>
+├── <a href="https://github.com/nidz-the-fact/React-with-Vitejs-for-Walletconnect-to-Starter-Web3/blob/main/src/main.jsx#L14C1-L14C84"><b>2.Network adjustment.</b></a>
+├── <a href="https://github.com/nidz-the-fact/React-with-Vitejs-for-Walletconnect-to-Starter-Web3/blob/main/src/main.jsx#L38C1-L51C3"><b>3.Set additional information for your network.</b></a>
+├── <a href="https://github.com/nidz-the-fact/React-with-Vitejs-for-Walletconnect-to-Starter-Web3/tree/main/src/components"><b>4.Manage components for each page as needed.</b></a>
+├── <a href="https://github.com/nidz-the-fact/React-with-Vitejs-for-Walletconnect-to-Starter-Web3/blob/main/src/Blockchain/ReadContract.jsx"><b>5.Example of reading and calling functions from Smart contract</b></a>
 </pre>
 
 ## ⚒️ Use deployment
