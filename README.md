@@ -22,7 +22,7 @@ Libraries, frameworks that are perfect and comprehensive. Can be used in a varie
 │   ├──── <b><a href="https://v2.chakra-ui.com/getting-started/vite-guide">Chakra UI</a>:</b>: UI Css speed.
 │   ├── <b><a href="https://docs.walletconnect.com/web3modal/react/about">WalletConnect</a>:</b>: Connect web3 Blockchain.
 │   ├── <b><a href="https://wagmi.sh/react/getting-started">Wagmi</a>:</b>: Type Safe, Extensible, and Modular by design. Build high-performance blockchain frontends.
-│   ├── <b><a href="https://viem.sh/docs/installation">Viem</a>:</b>: Build reliable apps & libraries with lightweight, composable, and type-safe modules that interface with Ethereum
+│   ├── <b><a href="https://viem.sh/docs/installation">Viem</a>:</b>: Build reliable apps & libraries with lightweight, composable, and type-safe modules that interface with Ethereum.
 </pre>
 
 ## 🔧 Stacks
@@ -62,6 +62,12 @@ Libraries, frameworks that are perfect and comprehensive. Can be used in a varie
     <img alt="logo" src="https://viem.sh/icon-light.png" width="auto" height="50">
   </picture>
 </a>
+
+## ⚙️ Settings
+
+<pre>
+├── <b>1.Define api in .env</b>: https://github.com/nidz-the-fact/React-with-Vitejs-for-Walletconnect-to-Starter-Web3/blob/main/.env
+</pre>
 
 ## ⚒️ Use deployment
 
