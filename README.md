@@ -72,7 +72,7 @@ Libraries, frameworks that are perfect and comprehensive. Can be used in a varie
 ├── <a href="https://github.com/nidz-the-fact/React-with-Vitejs-for-Walletconnect-to-Starter-Web3/blob/main/src/main.jsx#L38C1-L51C3"><b>4.Set additional information for your network.</b></a>
 ├── <a href="https://github.com/nidz-the-fact/React-with-Vitejs-for-Walletconnect-to-Starter-Web3/tree/main/src/components"><b>5.Manage components for each page as needed.</b></a>
 ├── <a href="https://github.com/nidz-the-fact/React-with-Vitejs-for-Walletconnect-to-Starter-Web3/blob/main/src/Blockchain/ReadContract.jsx"><b>6.Example of reading and calling functions from Smart contract.</b></a>
-├── <a href=""><b>6.`npm run build` : You will get a dist file and upload it to the website.</b></a>
+├── <a href=""><b>7.`npm run build` : You will get a dist file and upload it to the website.</b></a>
 </pre>
 
 ## ⚒️ Use deployment
