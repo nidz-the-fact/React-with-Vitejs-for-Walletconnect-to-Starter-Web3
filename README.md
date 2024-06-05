@@ -15,14 +15,14 @@ Libraries, frameworks that are perfect and comprehensive. Can be used in a varie
 
 <pre>
 ├── <b>📖 Libraries, frameworks</b>
-│   ├── <b><a href="https://vitejs.dev/guide/#scaffolding-your-first-vite-project">React</a>:</b>: with Vitejs.
+│   ├── <b><a href="https://vitejs.dev/guide/#scaffolding-your-first-vite-project">React</a></b>: with Vitejs.
 │   ├─── <b>CSS</b>
-│   ├──── <b><a href="https://tailwindcss.com/docs/guides/vite">Tailwind</a>:</b>: Css styles.
-│   ├──── <b><a href="https://daisyui.com/docs/install/">daisyUI</a>:</b>: Css styles + plugin.
-│   ├──── <b><a href="https://v2.chakra-ui.com/getting-started/vite-guide">Chakra UI</a>:</b>: UI Css speed.
-│   ├── <b><a href="https://docs.walletconnect.com/web3modal/react/about">WalletConnect</a>:</b>: Connect web3 Blockchain.
-│   ├── <b><a href="https://wagmi.sh/react/getting-started">Wagmi</a>:</b>: Type Safe, Extensible, and Modular by design. Build high-performance blockchain frontends.
-│   ├── <b><a href="https://viem.sh/docs/installation">Viem</a>:</b>: Build reliable apps & libraries with lightweight, composable, and type-safe modules that interface with Ethereum.
+│   ├──── <b><a href="https://tailwindcss.com/docs/guides/vite">Tailwind</a></b>: Css styles.
+│   ├──── <b><a href="https://daisyui.com/docs/install/">daisyUI</a></b>: Css styles + plugin.
+│   ├──── <b><a href="https://v2.chakra-ui.com/getting-started/vite-guide">Chakra UI</a></b>: UI Css speed.
+│   ├── <b><a href="https://docs.walletconnect.com/web3modal/react/about">WalletConnect</a></b>: Connect web3 Blockchain.
+│   ├── <b><a href="https://wagmi.sh/react/getting-started">Wagmi</a></b>: Type Safe, Extensible, and Modular by design. Build high-performance blockchain frontends.
+│   ├── <b><a href="https://viem.sh/docs/installation">Viem</a></b>: Build reliable apps & libraries with lightweight, composable, and type-safe modules that interface with Ethereum.
 </pre>
 
 ## 🔧 Stacks
